@@ -1,0 +1,50 @@
+.home-container {
+  padding: 10px;
+  width: 100vw;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.home-bg-container {
+  background-color: skyblue;
+}
+.ullist {
+  width: 100vw;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  gap: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+  font-family: roboto;
+  margin: 5px;
+}
+p {
+  color: black;
+}
+.head-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vh;
+}
+.add-cust {
+  font-size: 20px;
+  border: none;
+  color: #000000;
+}
+nav {
+  height: 10vh;
+  width: 50vw;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+}

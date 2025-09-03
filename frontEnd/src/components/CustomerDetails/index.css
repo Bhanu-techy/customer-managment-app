@@ -1,0 +1,27 @@
+.customer-detail-cont {
+  display: flex;
+  width: 100vw;
+  padding: 20px;
+}
+.customer-detail-list-cont {
+  display: flex;
+  flex-direction: column;
+  font-family: roboto;
+  list-style: decimal;
+  padding: 0px;
+  margin: 0px;
+}
+.para {
+  font-weight: bold;
+  font-family: roboto;
+}
+span {
+  font-weight: 400;
+  font-family: roboto;
+}
+.customer-detail {
+  width: 300px;
+}
+.heading {
+  font-size: 24px;
+}
